@@ -1,0 +1,6 @@
+streamlit
+nltk
+ollama
+SpeechRecognition
+gtts
+pyaudio
