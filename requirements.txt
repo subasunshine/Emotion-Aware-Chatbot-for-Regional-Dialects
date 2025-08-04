@@ -3,4 +3,5 @@ nltk
 ollama
 SpeechRecognition
 gtts
-pyaudio
+
+
